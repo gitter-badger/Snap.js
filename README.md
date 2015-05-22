@@ -1,4 +1,6 @@
 # Snap.js
+
+[![Join the chat at https://gitter.im/ashishsajwan/Snap.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ashishsajwan/Snap.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A Library for creating beautiful mobile shelfs in Javascript
 
 <a href="http://www.screenr.com/embed/0EJ7" target="_blank">View Video Preview</a>
